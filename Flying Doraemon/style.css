@@ -1,0 +1,8 @@
+body {
+  background-image: url(img2.jpg);
+  background-size: 100% 100vh;
+  background-position: fixed;
+}
+img {
+  margin-top: 50px;
+}
